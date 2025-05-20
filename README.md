@@ -3,8 +3,8 @@
 
 
 ### 🤵 About Me:
-- 👦🏻​ My name is Kevin and I have 19 years old in this moment. I like play videogames and watch series 
-- 🏦 Currently, I'm an student at Software Engineer, I like the technology and the videogames
+- 👦🏻​ My name is Kevin and I have 19 years old. I like play videogames and watch series 
+- 🏦 Currently, I'm an student at Software Engineer, I like the technology and I like JavaScript, Angular and Java
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 In this moment, I learning ```.java```,```.NET``` & ```.C#```
 - 😄 Pronouns: He/Him
