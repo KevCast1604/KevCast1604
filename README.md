@@ -2,6 +2,13 @@
 
 
 
+### 🤵 About Me:
+- 👦🏻​ My name is Kevin and I have 19 years old in this moment. I like play videogames and watch series 
+- 🏦 Currently, I'm an student at Software Engineer, I like the technology and the videogames
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 In this moment, I learning ```.java```,```.NET``` & ```.C#```
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been playing video games since I was 4 years old!
 
 ## ⚡ Technologies
 
@@ -52,4 +59,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevCast1604&theme=tokyonight" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hxc2h2YW5zeGxwdWJxbzZwbHIzOHc2NDZ6NjI1d243Y2p0NHo0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAKTgJIQe1buYU1R5/giphy.gif" alt="GIF centrado">
+</p>
