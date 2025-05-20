@@ -1,10 +1,14 @@
 <h1 align="center"> Hi, I am Kevin Castañeda! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
+<p align="center">
+  <img       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg5czVpcGJsYzU3dnUzYWFhcnhtenBrdjYxbGF4cGVudTY1M3E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="450px">
+</p>
 
 
 ## 🤵 About Me:
 
-- 👦🏻​ My name is Kevin and I have 19 years old. I like play videogames and watch series 
+- 👦🏻​ My name is Kevin and I have 19 years old. I like play videogames and watch series
+- 🎓 Student at [UPC](https://www.upc.edu.pe/) 
 - 🏦 Currently, I'm an student at Software Engineer, I like the technology and I like JavaScript, Angular and Java
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 In this moment, I learning ```.java```,```.NET``` & ```.C#```
