@@ -11,7 +11,7 @@
 - 🎓 Student at [UPC](https://www.upc.edu.pe/) 
 - 🏦 Currently, I'm an student at Software Engineer, I like the technology and I like JavaScript, Angular and Java
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 In this moment, I learning ```.java```,```.NET``` & ```.C#```
+- 🌱 In this moment, I learning ```.python```,```.kotlin``` & ```fastapi```
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been playing video games since I was 4 years old!
 
