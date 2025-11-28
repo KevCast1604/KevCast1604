@@ -1,7 +1,7 @@
-<h1 align="center"> Hi, I'm Kevin Castañeda! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg5czVpcGJsYzU3dnUzYWFhcnhtenBrdjYxbGF4cGVudTY1M3E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="30px"></h1>
+<h1 align="center"> Hi, I'm Kevin Castañeda</h1>
 
 <p align="center">
-  <img       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg5czVpcGJsYzU3dnUzYWFhcnhtenBrdjYxbGF4cGVudTY1M3E3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="450px">
+
 </p>
 
 
