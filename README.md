@@ -65,6 +65,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevCast1604&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hxc2h2YW5zeGxwdWJxbzZwbHIzOHc2NDZ6NjI1d243Y2p0NHo0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAKTgJIQe1buYU1R5/giphy.gif" alt="GIF centrado">
-</p>
